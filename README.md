@@ -1,6 +1,8 @@
 # MyFirstProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+Ce projet a été génér avec [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+
+Vous trouverez les détails de sa création sur https://coopernet.fr/formation/angular/installation 
 
 ## Découverte du fonctionnement :
 - de la structure générale d'une application angular
